@@ -20,6 +20,7 @@ The program:
 
 ## 💻 Example Output
 
+```bash 
 Welcome to PyPassword Generator!
 How many letters would you like in your password?
 8
@@ -28,6 +29,8 @@ How many symbols would you like in your password?
 How many numbers would you like in your password?
 4
 Your password is: tH@3a!xF8Zc$L
+```
+---
 
 ## 🧩 Key Features
 
@@ -40,11 +43,14 @@ Your password is: tH@3a!xF8Zc$L
 
 ## 📂 Project Structure
 
+```
 Password Generator/
 │
 ├── main.py # Main program file
 ├── .gitignore # Git ignore rules (optional)
 └── README.md # Project documentation
+```
+---
 
 ## 🚀 Skills Practiced
 
